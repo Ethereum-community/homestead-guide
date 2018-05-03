@@ -9,7 +9,7 @@ Homestead-Guide
 .. |Gitter| image:: https://badges.gitter.im/ethereum/homestead-guide.svg
    :target: https://gitter.im/ethereum/homestead-guide?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
 
-The Ethereum Homestead Guide is the reference documentation accompanying the Homestead release of the Ethereum project.
+This is a non-maintained fork of https://github.com/ethereum/homestead-guide, which is still maintained. It was originally created because of the impression that it would not be maintained, but it since has been. The Ethereum Homestead Guide is the reference documentation accompanying the Homestead release of the Ethereum project.
 
 `Hosted on ReadTheDocs`_
 
